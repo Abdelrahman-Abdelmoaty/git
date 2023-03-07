@@ -14,5 +14,7 @@ int subtract(int x,int y) {
 int main()
 {
     subtract(10, 3);
+    cout<<add(45,312);
+
 
 }
